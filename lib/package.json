@@ -1,0 +1,9 @@
+{
+  "name": "blake3-js",
+  "version": "0.1.0",
+  "main": "blake3.js",
+  "type": "module",
+  "private": true,
+  "types": "blake3.d.ts",
+  "files": ["blake3.js", "blake3.wasm", "blake3.d.ts"]
+}

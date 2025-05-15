@@ -1,0 +1,10 @@
+{
+  "name": "blake3-js-example",
+  "type": "module",
+  "dependencies": {
+    "blake3-js": "./lib"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17"
+  }
+}
